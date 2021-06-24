@@ -3,10 +3,14 @@ if you are here you probably have nothing better to do
 
 I am Wik and I'm just starting out here
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Bash
 - 🔭 I’m currently working on improving my career in IT
 - ⚡ Fun fact: my last meal on Earth would be pierogi
 
+What I can use:
+SQL
+HTML
+CSS
 <!--
 **wiktoriastel/wiktoriastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
