@@ -3,12 +3,13 @@ if you are here you probably have nothing better to do
 
 I am Wik and I'm just starting out here
 
-- 🌱 I’m currently learning Python, JavaScript and Bash
+- 🌱 I’m currently learning Python & JavaScript
 - 🔭 I’m currently working on improving my career in IT
 - ⚡ Fun fact: my last meal on Earth would be pierogi
 
 ✨ What I feel comfortable with:
 - SQL
+- Bash
 - HTML
 - CSS
 - SCSS
