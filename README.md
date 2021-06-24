@@ -1,4 +1,8 @@
-### Hi there 👋
+### Shalom 👋
+
+- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on improving my career in IT
+- ⚡ Fun fact: my last meal on Earth would be pierogi
 
 <!--
 **wiktoriastel/wiktoriastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
