@@ -1,5 +1,6 @@
 ### Shalom 👋
 if you are here you probably have nothing better to do
+
 I am Wik and I am just starting out here
 
 - 🌱 I’m currently learning Python
