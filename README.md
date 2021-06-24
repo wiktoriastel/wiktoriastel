@@ -7,10 +7,11 @@ I am Wik and I'm just starting out here
 - 🔭 I’m currently working on improving my career in IT
 - ⚡ Fun fact: my last meal on Earth would be pierogi
 
-What I can use:
-SQL
-HTML
-CSS
+✨ What I feel comfortable with:
+- SQL
+- HTML
+- CSS
+- SCSS
 <!--
 **wiktoriastel/wiktoriastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
