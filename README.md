@@ -1,7 +1,7 @@
 ### Shalom 👋
 if you are here you probably have nothing better to do
 
-I am Wik and I am just starting out here
+I am Wik and I'm just starting out here
 
 - 🌱 I’m currently learning Python
 - 🔭 I’m currently working on improving my career in IT
