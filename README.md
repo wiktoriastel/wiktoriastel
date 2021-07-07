@@ -5,7 +5,7 @@ I am Wik and I'm just starting out here
 
 - 🌱 I’m currently learning Python & JavaScript
 - 🔭 I’m currently working on improving my career in IT
-- ⚡ Fun fact: my last meal on Earth would be pierogi
+- ⚡ Fun fact: my last meal on Earth would be knafeh
 
 ✨ What I feel comfortable with:
 - SQL
