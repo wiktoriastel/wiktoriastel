@@ -4,8 +4,8 @@ if you are here you probably have nothing better to do
 I am Wik and I'm just starting out here
 
 - 🌱 I’m currently learning Python & Autodesk Maya
-- 🔭 I’m currently working on improving my career in IT
-- ⚡ Fun fact: my last meal on Earth would be knafeh
+- 🔭 I’m currently working in Cybersecurity
+- ⚡ Fun fact: my last meal on Earth would be pierogi (or knafeh if I may be fancier)
 
 ✨ What I feel comfortable with:
 - SQL
